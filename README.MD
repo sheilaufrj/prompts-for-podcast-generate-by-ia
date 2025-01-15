@@ -105,11 +105,7 @@ Esse roteiro é claro, simples e objetivo, ideal para um primeiro contato com o 
     <a 
         href="https://github.com/felipeAguiarCode">
         GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
+
     </a>
     &nbsp;|&nbsp;
     <a 
