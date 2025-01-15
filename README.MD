@@ -13,7 +13,7 @@
 </a>
 <a href="https://dio.me/">
 <img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
+    src="https://static.zoom.com.br/content/Image/2020/Listas/celular%20para%20idoso.png" 
     alt="🔴 LIVE CODE">
 </a>
 </p>
