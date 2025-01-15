@@ -26,7 +26,7 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Podcast Gerado por I.A.s para Idosos
 
 
  > ℹ️ **NOTE:** 
