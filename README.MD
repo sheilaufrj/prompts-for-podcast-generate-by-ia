@@ -56,13 +56,13 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 3. Use os prompts de artes no `midjourney`
 
 
-## 
+## CHATGPT
 
-Claro! Aqui está um roteiro simples e direto para explicar como usar o Instagram para idosos, com o objetivo de ser lido em até 45 segundos:
+Amigos da melhor idade, boa tarde! 
 
----
+Hoje vamos aprender a usar o Instagram de forma simples e direta. 
 
-**Roteiro: Como usar o Instagram**
+**Sigam o Roteiro : Como usar o Instagram**
 
 1. **Abrir o aplicativo:** Toque no ícone do Instagram no seu celular. Se você ainda não tem, vá na loja de aplicativos e baixe de graça.
 
@@ -76,30 +76,14 @@ Claro! Aqui está um roteiro simples e direto para explicar como usar o Instagra
 
 6. **Procurar pessoas:** Toque na lupa para procurar pessoas, páginas ou temas que você gosta.
 
-Pronto! Agora você já pode se divertir no Instagram, compartilhando momentos e vendo o que seus amigos estão fazendo!
+Pronto! Agora você já pode se divertir no Instagram, compartilhando momentos e vendo o que seus amigos e familiares estão fazendo!
 
----
-
-Esse roteiro é claro, simples e objetivo, ideal para um primeiro contato com o aplicativo.
-
-
-
-
-
-
-
-
-
+<p>
 
 ## 👨‍💻 Expert
 por [Sheila Alves](https://github.com/sheilaufrj)
 
 <p>
-por [Sheila Alves](https://github.com/sheilaufrj)
-</p>
-<br/><br/>
-<p>
-
 ---
 
 ⌨️ com 💜 por [Sheila Alves](https://github.com/sheilaufrj)
