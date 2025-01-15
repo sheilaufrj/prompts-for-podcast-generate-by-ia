@@ -94,6 +94,7 @@ Esse roteiro é claro, simples e objetivo, ideal para um primeiro contato com o 
 ## 👨‍💻 Expert
 
 <p>
+por [Sheila Alves](https://github.com/sheilaufrj)
 </p>
 <br/><br/>
 <p>
