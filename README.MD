@@ -105,18 +105,10 @@ Esse roteiro é claro, simples e objetivo, ideal para um primeiro contato com o 
     <a 
         href="https://github.com/felipeAguiarCode">
         GitHub
-
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Sheila Alves](https://github.com/sheilaufrj)
