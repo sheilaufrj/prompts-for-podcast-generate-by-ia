@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    preview 
 </p>
 
 <div align="center">
@@ -54,6 +54,42 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `midjourney`
+
+
+## 
+
+Claro! Aqui está um roteiro simples e direto para explicar como usar o Instagram para idosos, com o objetivo de ser lido em até 45 segundos:
+
+---
+
+**Roteiro: Como usar o Instagram**
+
+1. **Abrir o aplicativo:** Toque no ícone do Instagram no seu celular. Se você ainda não tem, vá na loja de aplicativos e baixe de graça.
+
+2. **Criar uma conta ou entrar:** Se for a primeira vez, toque em "Criar conta". Se já tem, digite seu nome de usuário e senha para entrar.
+
+3. **Tela principal:** Ao abrir, você verá as fotos e vídeos de amigos e pessoas que você segue. Para ver mais, role a tela para baixo.
+
+4. **Curtir e comentar:** Para curtir uma foto ou vídeo, toque no coração abaixo da imagem. Para comentar, toque no balão de fala.
+
+5. **Postar suas fotos ou vídeos:** Toque no símbolo "+" no centro da tela, escolha uma foto ou vídeo da sua galeria e toque em "Compartilhar".
+
+6. **Procurar pessoas:** Toque na lupa para procurar pessoas, páginas ou temas que você gosta.
+
+Pronto! Agora você já pode se divertir no Instagram, compartilhando momentos e vendo o que seus amigos estão fazendo!
+
+---
+
+Esse roteiro é claro, simples e objetivo, ideal para um primeiro contato com o aplicativo.
+
+
+
+
+
+
+
+
+
 
 ## 👨‍💻 Expert
 
